@@ -1,0 +1,71 @@
+Date,Product,Category,Amount,Region
+2023-01-01,Laptop,Electronics,1200.00,North
+2023-01-02,Mouse,Electronics,25.50,North
+2023-01-03,Chair,Furniture,150.00,South
+2023-01-04,Desk,Furniture,300.00,East
+2023-01-05,Monitor,Electronics,200.00,West
+2023-01-06,Keyboard,Electronics,45.00,North
+2023-01-07,Table,Furniture,250.00,South
+2023-01-08,Headphones,Electronics,80.00,East
+2023-01-09,Lamp,Furniture,35.00,West
+2023-01-10,Laptop,Electronics,1250.00,South
+2023-01-11,Mouse,Electronics,25.00,East
+2023-01-12,Chair,Furniture,160.00,North
+2023-01-13,Desk,Furniture,320.00,West
+2023-01-14,Monitor,Electronics,210.00,South
+2023-01-15,Keyboard,Electronics,50.00,East
+2023-01-16,Pen,Office Supplies,2.50,North
+2023-01-17,Paper,Office Supplies,5.00,South
+2023-01-18,Notebook,Office Supplies,3.00,East
+2023-01-19,Stapler,Office Supplies,7.50,West
+2023-01-20,Binder,Office Supplies,4.00,North
+2023-01-21,Laptop,Electronics,1150.00,West
+2023-01-22,Mouse,Electronics,22.00,South
+2023-01-23,Chair,Furniture,145.00,East
+2023-01-24,Desk,Furniture,310.00,North
+2023-01-25,Monitor,Electronics,195.00,South
+2023-01-26,Keyboard,Electronics,48.00,West
+2023-01-27,Table,Furniture,260.00,North
+2023-01-28,Headphones,Electronics,85.00,South
+2023-01-29,Lamp,Furniture,40.00,East
+2023-01-30,Pen,Office Supplies,2.00,West
+2023-02-01,Paper,Office Supplies,5.50,North
+2023-02-02,Notebook,Office Supplies,3.50,South
+2023-02-03,Stapler,Office Supplies,8.00,East
+2023-02-04,Binder,Office Supplies,4.50,West
+2023-02-05,Laptop,Electronics,1300.00,East
+2023-02-06,Mouse,Electronics,28.00,West
+2023-02-07,Chair,Furniture,155.00,North
+2023-02-08,Desk,Furniture,330.00,South
+2023-02-09,Monitor,Electronics,220.00,East
+2023-02-10,Keyboard,Electronics,55.00,West
+2023-02-11,Table,Furniture,270.00,North
+2023-02-12,Headphones,Electronics,90.00,South
+2023-02-13,Lamp,Furniture,45.00,East
+2023-02-14,Pen,Office Supplies,3.00,West
+2023-02-15,Paper,Office Supplies,6.00,North
+2023-02-16,Notebook,Office Supplies,4.00,South
+2023-02-17,Stapler,Office Supplies,8.50,East
+2023-02-18,Binder,Office Supplies,5.00,West
+2023-02-19,Phone,Electronics,800.00,North
+2023-02-20,Tablet,Electronics,400.00,South
+2023-02-21,Charger,Electronics,20.00,East
+2023-02-22,Cable,Electronics,10.00,West
+2023-02-23,Sofa,Furniture,500.00,North
+2023-02-24,Bed,Furniture,700.00,South
+2023-02-25,Dresser,Furniture,350.00,East
+2023-02-26,Nightstand,Furniture,100.00,West
+2023-02-27,Marker,Office Supplies,1.50,North
+2023-02-28,Eraser,Office Supplies,0.50,South
+2023-03-01,Ruler,Office Supplies,1.00,East
+2023-03-02,Scissors,Office Supplies,5.00,West
+2023-03-03,Phone,Electronics,850.00,South
+2023-03-04,Tablet,Electronics,420.00,East
+2023-03-05,Charger,Electronics,22.00,West
+2023-03-06,Cable,Electronics,12.00,North
+2023-03-07,Sofa,Furniture,550.00,South
+2023-03-08,Bed,Furniture,750.00,East
+2023-03-09,Dresser,Furniture,380.00,West
+2023-03-10,Nightstand,Furniture,110.00,North
+2023-03-11,Marker,Office Supplies,2.00,South
+2023-03-12,Eraser,Office Supplies,1.00,East

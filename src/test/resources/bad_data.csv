@@ -1,0 +1,8 @@
+Date,Product,Category,Amount,Region
+2023-01-01,Laptop,Electronics,1200.00,North
+INVALID_DATE,Mouse,Electronics,25.50,North
+2023-01-03,Chair,Furniture,INVALID_AMOUNT,South
+2023-01-04,Desk,Furniture,300.00
+,
+2023-01-05,Monitor,Electronics,200.00,West,EXTRA_COLUMN
+2023-01-06,Keyboard,Electronics,45.00,North
