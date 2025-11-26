@@ -31,6 +31,8 @@ This repository contains robust, production-ready solutions for two Java coding 
 
 A multi-threaded simulation demonstrating thread safety and synchronization.
 
+[**-> Read Detailed Documentation & Implementation Details**](src/main/java/com/example/assignment1/README.md)
+
 ### Key Features
 - **BoundedBuffer**: A thread-safe queue implemented using `wait()` and `notifyAll()`.
 - **Graceful Shutdown**: Implements a "poison pill" mechanism to ensure all threads exit cleanly without deadlocks.
@@ -47,6 +49,8 @@ A multi-threaded simulation demonstrating thread safety and synchronization.
 ## Assignment 2: Data Analysis
 
 A data processing tool that analyzes sales records from a CSV file using Java Streams.
+
+[**-> Read Detailed Documentation & Implementation Details**](src/main/java/com/example/assignment2/README.md)
 
 ### Key Features
 - **Java Streams**: Utilizes functional programming for concise and readable data transformations.
